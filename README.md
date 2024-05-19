@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hong3085
-- 👀 I’m interested in Phyton
-- 🌱 I’m currently learning Phyton
+- 👀 I’m interested in Phython
+- 🌱 I’m currently learning Phython
 - 📫 How to reach me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
